@@ -6,7 +6,8 @@ This repository provide necessary code, model, and testset to reproduce results 
 The model checkpoitns and testsets are available via [GDrive](https://drive.google.com/drive/folders/1lgPgkcdA_EMX5iQlhyJa-DgBEO4tBxa1?usp=sharing).
 * Mol-LLM [[GDrive]](https://drive.google.com/file/d/1Oun_iGZah61T9bP3mGqJPCANCtGBKxgs/view?usp=sharing)
 * Mol-LLM (w/o Graph) [[GDrive]](https://drive.google.com/file/d/12abcNyngE1ByrDAduB1zGE-lwuCNFRnl/view?usp=sharing)
-* Testset [[GDrive]](https://drive.google.com/drive/folders/1D6nqfwmc5IxG9DT6NrPtFLCvtgNasJbG?usp=sharing)
+* Testset [[GDrive]](https://drive.google.com/drive/folders/1xSitbwPdH-7zqxbU7IpT-KA9R3AX-a7E?usp=sharing)
+  * This testset contains all the necessary InD and OOD benchmarks for reproduction
 
 
 # Installation
